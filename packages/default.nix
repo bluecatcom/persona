@@ -40,6 +40,9 @@
     noctalia-shell
     quickshell
     xwayland-satellite
+
+    glib
+    gsettings-desktop-schemas
   ];
 }
 
