@@ -9,7 +9,7 @@
     obsidian
     blender
     discord
-    chromium
+#    chromium
     thunar
 
     # Terminal e desenvolvimento
@@ -21,9 +21,9 @@
     gh
 
     # PHP
-    php85
-    php85Packages.php-codesniffer
-    php85Packages.composer
+#    php85
+#    php85Packages.php-codesniffer
+#    php85Packages.composer
 
     # Python
     python3
@@ -31,14 +31,14 @@
 
     # Utilitários
     fastfetch
-    wl-clipboard
+#    wl-clipboard
     zip
     unzip
-    unrar
+#    unrar
     kdePackages.gwenview
 
     # Niri e componentes visuais
-    noctalia-shell
+    noctalia
     quickshell
     xwayland-satellite
 
