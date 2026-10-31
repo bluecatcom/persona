@@ -35,6 +35,7 @@
     zip
     unzip
     unrar
+    kdePackages.gwenview
 
     # Niri e componentes visuais
     noctalia-shell
